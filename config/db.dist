@@ -1,0 +1,13 @@
+<?php
+
+<?php
+
+$app['pdo.options'] = [
+    'username' => 'username',
+    'password' => 'password',
+    'host'     => 'localhost',
+    'dbname'   => 'dbname',
+    'sgbdr'    => 'mysql',
+    'charset'  => 'utf8'
+];
+
